@@ -1,0 +1,13 @@
+{
+  "name": "frmblks-label",
+  "title": "Label",
+  "description": "Form Label Field.",
+  "icon": "info-outline",
+  "keywords": [ "custom" ],
+  "acf": {
+	"mode": "preview"
+  },
+  "supports": {
+	"jsx": true
+  }
+}

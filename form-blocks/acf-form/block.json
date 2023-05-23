@@ -1,0 +1,13 @@
+{
+  "name": "frmblks-acf-form",
+  "title": "ACF Form",
+  "description": "Insert an existing form.",
+  "icon": "feedback",
+  "keywords": [ "custom" ],
+  "acf": {
+	"mode": "auto"
+  },
+  "supports": {
+	"jsx": false
+  }
+}

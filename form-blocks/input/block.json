@@ -1,0 +1,13 @@
+{
+  "name": "frmblks-input",
+  "title": "Input",
+  "description": "Form Input Field.",
+  "icon": "editor-code",
+  "keywords": [ "custom" ],
+  "acf": {
+	"mode": "preview"
+  },
+  "supports": {
+	"jsx": false
+  }
+}

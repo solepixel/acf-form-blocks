@@ -1,0 +1,13 @@
+{
+  "name": "frmblks-form",
+  "title": "Form",
+  "description": "Start a new form.",
+  "icon": "feedback",
+  "keywords": [ "custom" ],
+  "acf": {
+	"mode": "preview"
+  },
+  "supports": {
+	"jsx": true
+  }
+}

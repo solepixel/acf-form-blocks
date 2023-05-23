@@ -1,0 +1,13 @@
+{
+  "name": "frmblks-submit",
+  "title": "Submit",
+  "description": "Form Submit Field.",
+  "icon": "button",
+  "keywords": [ "custom" ],
+  "acf": {
+	"mode": "preview"
+  },
+  "supports": {
+	"jsx": false
+  }
+}

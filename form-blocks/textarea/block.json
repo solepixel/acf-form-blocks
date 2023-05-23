@@ -1,0 +1,13 @@
+{
+  "name": "frmblks-textarea",
+  "title": "Textarea",
+  "description": "Form Textarea Field.",
+  "icon": "editor-code",
+  "keywords": [ "custom" ],
+  "acf": {
+	"mode": "preview"
+  },
+  "supports": {
+	"jsx": false
+  }
+}
